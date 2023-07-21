@@ -1,0 +1,5 @@
+How does the interface work under the hood? I presume it must be implemented differently in order to be more efficient than reflections, but how exactly does that work? 
+
+I've heard heard of interfaces in C# as a way to make a health system in a game. This doesn't seem like the same sort of use case as what's discussed for Java? Why is that? Are C# interfaces a different thing entirely? 
+
+I'm still a little confused about virtual methods. Is it only a virtual method if you're declaring a variable of the superclass type to have a subtype's information? Or is any override a virtual method? 
